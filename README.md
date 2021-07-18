@@ -62,6 +62,8 @@
 ![image](https://user-images.githubusercontent.com/66692550/126083202-52334bcd-074c-4ef1-b72f-8b090abab991.png)
 
 ![image](https://user-images.githubusercontent.com/66692550/126083208-ea243b6f-ace0-45df-86ba-300296e75c46.png)
+
+
 Los resultados se reflejan en la siguiente imagen. Todos los datos de MongoDB Atlas se han copiado a la base de datos “mongo_destino6” de CouchDB.
 
 ![image](https://user-images.githubusercontent.com/66692550/126084393-f361ee7b-d033-4f81-b03c-d6ef3eb82bf1.png)
