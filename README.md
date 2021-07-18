@@ -65,6 +65,7 @@
 Los resultados se reflejan en la siguiente imagen. Todos los datos de MongoDB Atlas se han copiado a la base de datos “mongo_destino6” de CouchDB.
 
 ![image](https://user-images.githubusercontent.com/66692550/126084393-f361ee7b-d033-4f81-b03c-d6ef3eb82bf1.png)
+
 El script utilizado para la conección es 
 [MongoCouch.py] (https://github.com/Jeremy210321/MongoDB-CouchDB_Connection/blob/master/MongoCouch.py)
 
