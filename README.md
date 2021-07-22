@@ -1,12 +1,13 @@
 # MongoDB-CouchDB_Connection
 ### Conección entre MongoDB y CouchDB
 
+
+
 **Los integrantes del grupo son:**
 
 Daniel Guachamín → @DanielGuachamin
 Cindy Yazán → @Cindyk2052
-Jeremy  León → @Jeremy210321
-
+Jeremy León → @Jeremy210321
 
 1. Se creo un nuevo Proyecto en Mongo DB Atlas, con el nombre de Ejercicio Colleccitions
 
